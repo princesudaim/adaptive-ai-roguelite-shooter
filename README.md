@@ -2,6 +2,8 @@
 
 A browser-based roguelite arcade shooter. The local AI Director analyzes each run and adapts the next arena to your play style. Runs, upgrades, and scores are saved in your browser; the game has no account, backend, analytics, or external runtime service.
 
+New browser saves begin at Threat 1 with zero shards, upgrades, runs, and scores; only the default theme is unlocked. Existing saves remain intact across reloads.
+
 ## Play locally
 
 ```sh

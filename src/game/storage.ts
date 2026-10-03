@@ -6,7 +6,7 @@ export const DEFAULT_META: MetaState = {
   shards: 0,
   upgrades: {},
   theme: "cyber",
-  unlockedThemes: ["cyber", "retro"],
+  unlockedThemes: ["cyber"],
   hardcore: false,
   autofire: true,
   screenShake: true,
